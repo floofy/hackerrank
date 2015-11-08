@@ -1,3 +1,6 @@
+/*
+ * https://www.hackerrank.com/challenges/palindrome-index
+ */
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
