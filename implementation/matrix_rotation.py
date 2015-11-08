@@ -1,5 +1,5 @@
 '''
-https://www.hackerrank.com/challenges/matrix-rotation-algo/copy-from/14599168
+https://www.hackerrank.com/challenges/matrix-rotation-algo
 '''
 def convert_matrix(matrix, rings, rows, cols, num_rings):
     for i in range(num_rings):
