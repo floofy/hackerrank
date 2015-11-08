@@ -1,5 +1,5 @@
 /*
-https://www.hackerrank.com/challenges/quicksort3/submissions/code/2623852
+ * https://www.hackerrank.com/challenges/quicksort3/submissions/code/2623852
  */
 
 #include <cmath>
