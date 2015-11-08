@@ -1,8 +1,7 @@
 /*
-https://www.hackerrank.com/challenges/quicksort4/submissions/code/10798699
-*/
-
-/* Outputs the difference between the swaps of inserstion sort and quicksort
+ * https://www.hackerrank.com/challenges/quicksort4/submissions/code/10798699
+ * - Outputs the difference between the swaps of inserstion sort and quicksort
+ */
 
 
     Kenny Yee */
